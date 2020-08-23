@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f455cb1.chunk.css",
+    "main.js": "/static/js/main.d6eefc88.chunk.js",
+    "main.js.map": "/static/js/main.d6eefc88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0752f680.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0752f680.js.map",
+    "static/js/2.1acaf822.chunk.js": "/static/js/2.1acaf822.chunk.js",
+    "static/js/2.1acaf822.chunk.js.map": "/static/js/2.1acaf822.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2212bc4c1177e4e0fbb079035014e049.js": "/precache-manifest.2212bc4c1177e4e0fbb079035014e049.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0f455cb1.chunk.css.map": "/static/css/main.0f455cb1.chunk.css.map",
+    "static/js/2.1acaf822.chunk.js.LICENSE.txt": "/static/js/2.1acaf822.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Sniglet-Regular.dbe80701.otf",
+    "static/media/Content.css": "/static/media/bg-hero.68a226b4.jpg",
+    "static/media/photo1.jpg": "/static/media/photo1.f5b1f9a4.jpg",
+    "static/media/photo2.jpg": "/static/media/photo2.8ddf1224.jpg",
+    "static/media/photo3.jpg": "/static/media/photo3.309de1dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0752f680.js",
+    "static/js/2.1acaf822.chunk.js",
+    "static/css/main.0f455cb1.chunk.css",
+    "static/js/main.d6eefc88.chunk.js"
+  ]
+}
